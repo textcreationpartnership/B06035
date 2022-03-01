@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Save a thief from the gallows, and hee'l [sic] hang thee if he can. Or, The mercifull father, and the mercilesse sonne, the tune is, Fortune my foe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-1692?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06035</idno>
+            <idno type="STC">Wing S772B</idno>
+            <idno type="STC">ESTC R183246</idno>
+            <idno type="EEBO-CITATION">47012637</idno>
+            <idno type="OCLC">ocm 47012637</idno>
+            <idno type="VID">174602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174602)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2692:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Save a thief from the gallows, and hee'l [sic] hang thee if he can. Or, The mercifull father, and the mercilesse sonne, the tune is, Fortune my foe.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.C., T.V., and W. Gilbertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1688 and 1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Right half-sheet contains: The confession and repentance of George Sanders, gentleman, late of Sugh, in the county of Hereford, who killed his own uncle, and accused his own father for the murder, but by Gods providence being discovered he dyed for the same where he wrote this song with his own hand.</note>
+                  <note>Caption title: His repentance in prison. To the same tune.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sanders, George, --  of Sugh --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174602:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>Save a Thief from the Gallows, and hee'l hang thee if he can.</head>
+            <head type="sub">Or, The Mercifull Father, and the Mercileſſe Sonne,</head>
+            <opener>The tune is, <hi>Fortune my Foe.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>YOu diſobedient Children mark my fall.</l>
+               <l>And by my timeleſſe end take warning all.</l>
+               <l>Againſt my own dear Father I have done</l>
+               <l>A déed, the like did never graceleſſe Son.</l>
+            </lg>
+            <lg>
+               <l>In blooming years I was entic'd to ſin.</l>
+               <l>E'r I perceiv'd what danger lay therein.</l>
+               <l>And ſo from day to day untill this hour</l>
+               <l>To leave the ſame as yet I had no power.</l>
+            </lg>
+            <lg>
+               <l>My Mother dead, my Father cockered me,</l>
+               <l>As men will do when Motherleſſe wée be,</l>
+               <l>And nothing then for me he thought too dear.</l>
+               <l>Which brought me thus unto a graceleſſe fear.</l>
+            </lg>
+            <lg>
+               <l>And when as I to elder years did grow,</l>
+               <l>By wicked courſes got I timely woe.</l>
+               <l>Each vain delight belonging to Young-men,</l>
+               <l>Deceived me and wrought my ruine then.</l>
+            </lg>
+            <lg>
+               <l>The deadly ſins that are in number ſeven</l>
+               <l>Without more grace have loſt my joyes in Hea<g ref="char:EOLhyphen"/>ven</l>
+               <l>From firſt to laſt of theſe moſt curſed crimes,</l>
+               <l>Have made me now a wonder of theſe times.</l>
+            </lg>
+            <lg>
+               <l>For wanting means to nouriſh my delight,</l>
+               <l>I went the wrong, and left the wayes of right.</l>
+               <l>Which to maintain, my Father growing poor</l>
+               <l>Forgetting God I daily rob'd for more.</l>
+            </lg>
+            <lg>
+               <l>Thrée times he ſav'd me from the Gallow trée,</l>
+               <l>Thrée times he caſt himſelf in debt for me,</l>
+               <l>Three times he ſet me up in good eſtate,</l>
+               <l>In hope to kéep me from untimely fate.</l>
+            </lg>
+            <lg>
+               <l>By me the Proverb is fulfilled here,</l>
+               <l>
+                  <q>
+                     <hi>Who ſaves a thief from gallows finds it dear.</hi>
+                  </q>
+               </l>
+               <l>For ſaving me I ſought his dear life's woe,</l>
+               <l>My gentle Fathers timeleſſe overthrow.</l>
+            </lg>
+            <lg>
+               <l>For wanting means ſtill to relieve my néed,</l>
+               <l>Put me in mind to do a wofull déed,</l>
+               <l>And ſéek his blood the high-way unto ſin.</l>
+               <l>Who wanting grace, I ſoon grew perfect in.</l>
+            </lg>
+            <lg>
+               <l>My Fathers brother of good living known,</l>
+               <l>Being dead, as next of kin they were mine own</l>
+               <l>the which I wrought with theſe accurſed hands,</l>
+               <l>To be the Heir of all my Vncles Lands.</l>
+            </lg>
+            <lg>
+               <l>With mind prepar'd for murder thus I went,</l>
+               <l>Vnto the field where he did much frequent,</l>
+               <l>where méeting him, with my own Fathers knife</l>
+               <l>Which I hav ſtolen, I took away his life.</l>
+            </lg>
+            <lg>
+               <l>And laid it down all bloody by his ſide,</l>
+               <l>That all might ſée my Vncle there-with dy'd.</l>
+               <l>And challeng'd it my Fathers knife to be,</l>
+               <l>When people came the murdered corps to ſée.</l>
+            </lg>
+            <lg>
+               <l>O Homicide! O curſed viprous brood,</l>
+               <l>Like <hi>Cain,</hi> to ſéek thy Fathers deareſt blood,</l>
+               <l>My own dear Father being thus betray'd,</l>
+               <l>I his own Child the Evidence was made.</l>
+            </lg>
+            <lg>
+               <l>So judg'd to death for that he never did,</l>
+               <l>The Lord in mercy did the ſame forbid,</l>
+               <l>For as he was to Execution led</l>
+               <l>A world of torments in my boſome bred.</l>
+            </lg>
+            <lg>
+               <l>To ſée him ſtand upon the Gallow trée,</l>
+               <l>From which before good man he ſaved me,</l>
+               <l>I could not chuſe but tell what I had done,</l>
+               <l>And ſo confeſſe my ſelf a wicked ſon.</l>
+            </lg>
+         </div>
+         <div type="ballad">
+            <head>The Confeſſion and Repentance of George Sanders, Gen<g ref="char:EOLhyphen"/>tleman, l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te of <hi>Sugh,</hi> in the Coun<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>Hertford,</hi> who killed his own Uncle, and accuſed his own Father for the murder, but by Gods providence being diſcovered he dy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for the ſame where he wrote this Song with his own hand.</head>
+            <p>
+               <figure>
+                  <sp>
+                     <q>Lord bring my Soule out of Priſon.<bibl>Pſal. 142../.</bibl>
+                     </q>
+                  </sp>
+               </figure>
+            </p>
+            <lg>
+               <l>GOds judgements now are rightly ſéen ſaid I</l>
+               <l>Dear Father I have ſlain him let me dye,</l>
+               <l>O let me dye, and ſet my Father free,</l>
+               <l>Or elſe like <hi>Judas</hi> damned ſhall I be.</l>
+            </lg>
+            <lg>
+               <l>Whereat the people in that very place,</l>
+               <l>There praiſed God that gave me ſo much grace,</l>
+               <l>To quit my Father from that crying ſin,</l>
+               <l>Where I with red-blood ſtreams am drowned in.</l>
+            </lg>
+            <lg>
+               <l>My Father ſav'd, and I to Priſon ſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt,</l>
+               <l>Where I remain with many a ſad lament,</l>
+               <l>Which when you ſee, you cannot chuſe but ſay</l>
+               <l>Repentance comes before my dying day.</l>
+            </lg>
+            <div type="part">
+               <head>His Repentance in Priſon.</head>
+               <opener>To the ſame tune.</opener>
+               <lg>
+                  <l>MOngſt Lyons fell in <hi>Daniels</hi> Den am <hi>I</hi>
+                  </l>
+                  <l>In loweſt priſon caſt with <hi>Jeremy,</hi>
+                  </l>
+                  <l>Fed with <hi>Elias</hi> by the Ravens fel,</l>
+                  <l>And plac'd with <hi>Judas</hi> in the maw of hell.</l>
+               </lg>
+               <lg>
+                  <l>Naked with <hi>Eſau</hi> fearfull do <hi>I</hi> walk,</l>
+                  <l>Dumb with old <hi>Zachary</hi> ſilent do I talk,</l>
+                  <l>Afflictions bred with <hi>Micha</hi> is my food,</l>
+                  <l>And with the Prophets drink I ſorrows flood.</l>
+               </lg>
+               <lg>
+                  <l>As poor as <hi>Job</hi> even now ſo poor am I,</l>
+                  <l>Deſpis'd with <hi>Lazarus</hi> in great miſery,</l>
+                  <l>Baniſht with <hi>David</hi> from my native land,</l>
+                  <l>Caſt up with <hi>Ionas</hi> on the Ninivites ſand.</l>
+               </lg>
+               <lg>
+                  <l>Made blind with <hi>Toby</hi> by the Swallows dung,</l>
+                  <l>And with poor <hi>Ioſeph</hi> caſt in priſon ſtrong,</l>
+                  <l>I weep with <hi>Mary</hi> who had loſt her Maſter,</l>
+                  <l>And run with <hi>Peter</hi> who ſhould run the faſter,</l>
+               </lg>
+               <lg>
+                  <l>I ſinned have, for ſin God curſt the ground,</l>
+                  <l>I ſinned have for ſin the world was drown'd:</l>
+                  <l>I ſinned have, ſin <hi>Sodom</hi> ſet on fire:</l>
+                  <l>Alſo for ſin did <hi>Egypt</hi> feel Gods ire.</l>
+               </lg>
+               <lg>
+                  <l>I ſinned have, for ſin did <hi>Adam</hi> die:</l>
+                  <l>I ſinned have, ſin cauſed <hi>David<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> cry:</l>
+                  <l>I ſinned have and for ſin Satan fell</l>
+                  <l>From an high Angel to a Devil in Hell.</l>
+               </lg>
+               <lg>
+                  <l>Did <hi>David</hi> weep, and ſhall I not then cry?</l>
+                  <l>Did <hi>Mary</hi> weep, and ſhall mine eyes be dry:</l>
+                  <l>Did <hi>Eſau</hi> weep, and ſhall not I weep more?</l>
+                  <l>Did <hi>Peter</hi> weep ſuch tears? let me have ſtore.</l>
+               </lg>
+               <lg>
+                  <l>Did <hi>Mary</hi> weep for loſs of Maſter dear?</l>
+                  <l>Did <hi>Martha</hi> weep with ſorrow toucht full near?</l>
+                  <l>Spring eyes with tears to waſh his ſacred feet,</l>
+                  <l>That for my ſin did ſhed his blood moſt ſweet.</l>
+               </lg>
+               <lg>
+                  <l>Lark-like I fly unto the living ſpring,</l>
+                  <l>Deſiring pardon of my heavenly King,</l>
+                  <l>Paſt worldly hope now like the thief on tree,</l>
+                  <l>I onely fix my faith and hope on thee.</l>
+               </lg>
+               <lg>
+                  <l>Look back on me as thou didſt unto <hi>Peter,</hi>
+                  </l>
+                  <l>Speak to my ſoul, as to the thief moſt ſweeter,</l>
+                  <l>O ſpy me out with <hi>Zache</hi> on the tree,</l>
+                  <l>And with ſweet <hi>Bartholomew</hi> call me Lord to thee.</l>
+               </lg>
+               <lg>
+                  <l>O let me now with holy <hi>Abraham</hi> ſpy,</l>
+                  <l>A ſaving Ram that <hi>Iſaac</hi> may not die.</l>
+                  <l>O let me live for to ſound forth thy praiſe,</l>
+                  <l>That I may ſhew thy mercy in my days.</l>
+               </lg>
+               <lg>
+                  <l>Make me a ſparrow in thy houſe, O King.</l>
+                  <l>That ſwallow-like I may ſit there and ſing:</l>
+                  <l>O let me in thy Temple keep a door,</l>
+                  <l>That <hi>I</hi> may praiſe thy name for evermore.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>George Sanders.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F.C. T.V. and W. Gilbertſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
